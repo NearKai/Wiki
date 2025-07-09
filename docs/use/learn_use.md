@@ -16,13 +16,13 @@
 
 ## 下载 ToolDelta
 
-| [Windows 用户点我](https://github.dqyt.online/https://github.com/ToolDelta/ToolDelta/releases/latest/download/ToolDelta-windows.exe) | [Linux 用户点我](https://github.dqyt.online/https://github.com/ToolDelta/ToolDelta/releases/latest/download/ToolDelta-linux) |
+| [Windows 用户点我](https://github.yeqing.net/https://github.com/ToolDelta/ToolDelta/releases/latest/download/ToolDelta-windows.exe) | [Linux 用户点我](https://github.yeqing.net/https://github.com/ToolDelta/ToolDelta/releases/latest/download/ToolDelta-linux) |
 | ------ | ------ |
 
 安卓手机用户请使用 Termux 运行这段命令：
 
 ```bash
-curl -sSL https://github.dqyt.online/https://raw.githubusercontent.com/ToolDelta/ToolDelta/main/install.sh | bash
+curl -sSL https://github.yeqing.net/https://raw.githubusercontent.com/ToolDelta/ToolDelta/main/install.sh | bash
 ```
 
 ## ToolDelta，启动！
@@ -96,19 +96,17 @@ Linux: 输入 `./ToolDelta` 即可。
 ```
 这个插件市场该怎么用？不妨在控制台输入 **插件市场** 试试吧。
 ```
-[15:12]  信息  ToolDelta插件市场 Official: 欢迎使用 ToolDelta 插件市场.
-[15:12]  信息   1. 聊天栏菜单 v0.0.4 @SuperScript 组合式插件
-[15:12]  信息   2. 控制台执行MCFB指令 v0.0.2 @SuperScript 组合式插件
-[15:12]  信息   3. 库-基本组件API v0.0.1 @SuperScript 组合式插件
-[15:12]  信息   4. 库-世界交互 v0.0.1 @SuperScript 组合式插件
-[15:12]  信息   5. @玩家 v0.0.2 @wling 注入式插件
-[15:12]  信息   6. SuperSoundMixer v0.0.1 @SuperScript/wling 注入式插件
-[15:12]  信息   7. 井字棋 v0.0.1 @SuperScript/wling 注入式插件
-[15:12]  信息   8. 清空末影箱 v0.0.1 @wling 注入式插件
-[15:12]  信息  输入 +/- 翻页, 输入插件序号选择插件
-[15:12]  输入  回车键继续上次操作, q 退出, 请输入:
+ToolDelta插件市场 Official: 欢迎使用 ToolDelta 插件市场.
+---------------------------------------------------
+请选择搜索方式:
+  1 -     按插件名
+  2 -     按插件作者名
+  3 -     按插件 ID
+  4 -     随便逛逛
+  其它    退出
+请输入选项:
 ```
-**输入 + 或 - 可以进行向前或向后翻页的操作**，浏览你喜欢的插件。一般来说，较为常用和重要的插件会优先放在前面。
+第一次使用建议使用**4**然后回车，输入**+**下翻一页，输入**-**上翻一页
 
 按照提示进行操作，选择插件之后可以查看详情，详情页输入 `y` 即可自动下载该插件到对应文件夹，是不是很方便？
 
